@@ -1,8 +1,8 @@
-package com.app.shoppinglist.dao
+package com.app.shoppinglist.database.dao
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.app.shoppinglist.model.ShoppingItem
+import com.app.shoppinglist.database.model.ShoppingItem
 
 
 @Dao
